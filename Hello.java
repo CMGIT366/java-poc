@@ -1,5 +1,5 @@
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("Wlcome to Java...");
+		System.out.println("Wlcome to Jenkins CICD projrct...");
 	}
 }
